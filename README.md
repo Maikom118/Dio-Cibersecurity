@@ -18,4 +18,4 @@ de cibersecurity
 
 
 # Resultado 
-![alt text](Resultado Dio.jpeg)
+![alt text](ResultadoDio.jpeg)
